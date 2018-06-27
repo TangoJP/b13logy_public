@@ -1,0 +1,6 @@
+config.py
+*.ini
+
+data_retrieval/*
+
+d2v*
