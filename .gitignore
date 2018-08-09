@@ -5,3 +5,5 @@ config.py
 data_retrieval/*
 
 d2v*
+
+ngram_sample_df.csv
